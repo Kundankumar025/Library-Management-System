@@ -1,2 +1,2 @@
 # Library-Management-System
-A Library Management System (LMS) is software that helps manage all library activities like adding books, issuing books, returning books, managing members, and calculating fines. It reduces manual work, avoids errors, and makes the library more organized and efficient.  Main features:  Book management  Member management  Issue/return of books
+A Library Management System (LMS) in Java is a software application used to manage the daily operations of a library. It helps in storing book details, managing members, issuing and returning books, and maintaining records in an easy and automated way.
